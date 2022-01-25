@@ -1,3 +1,2 @@
 - Hi, my name is Arttu
 - I’m interested in JavaScript and Python development
-- You can contact me using this email: iamnanjo@gmail.com
