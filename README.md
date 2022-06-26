@@ -1,2 +1,2 @@
 - Hi, my name is Arttu
-- I’m interested in JavaScript, Python and Dart development
+- I’m interested in JavaScript, Python and Flutter development
