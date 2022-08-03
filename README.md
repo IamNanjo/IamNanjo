@@ -1,2 +1,3 @@
 - Hi, my name is Arttu
-- I’m interested in JavaScript, Python and Flutter development
+- I’m interested in Web development (both front-end and back-end)
+- My favorite front-end libraries are Vue and React
