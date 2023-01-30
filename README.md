@@ -1,3 +1,3 @@
 - Hi, my name is Arttu
-- I’m interested in Web development (both front-end and back-end)
+- I’m interested in full stack development
 - My favorite front-end libraries are Vue and React
