@@ -1,5 +1,5 @@
 - Hi, my name is Arttu
-- I'm a UAS student (3rd year)
+- I'm a UAS student (4th year)
 - I’m interested in full stack development
 - My favorite front-end libraries are Vue and React
 - My favorite back-end library is Express.js
